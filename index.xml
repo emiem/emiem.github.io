@@ -1,21 +1,84 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>EmStreetStyle</title>
     <link>https://emiem.github.io/street-style/index.xml</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on EmStreetStyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 30 Oct 2016 21:55:27 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Oct 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>first post</title>
-      <link>https://emiem.github.io/street-style/post/first-post/</link>
-      <pubDate>Sun, 30 Oct 2016 21:55:27 +0800</pubDate>
+      <title>black white</title>
+      <link>https://emiem.github.io/street-style/post/black-white/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emiem.github.io/street-style/post/first-post/</guid>
-      <description>Nekoj tekst.</description>
+      <guid>https://emiem.github.io/street-style/post/black-white/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coat jeans</title>
+      <link>https://emiem.github.io/street-style/post/coat-jeans/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/coat-jeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>earrings gold</title>
+      <link>https://emiem.github.io/street-style/post/earrings-gold/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/earrings-gold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gucci bag</title>
+      <link>https://emiem.github.io/street-style/post/gucci-bag/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/gucci-bag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>red shoes</title>
+      <link>https://emiem.github.io/street-style/post/red-shoes/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/red-shoes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>street style</title>
+      <link>https://emiem.github.io/street-style/post/street-style/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/street-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>white coat</title>
+      <link>https://emiem.github.io/street-style/post/white-coat/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/white-coat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>white pants</title>
+      <link>https://emiem.github.io/street-style/post/white-pants/</link>
+      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://emiem.github.io/street-style/post/white-pants/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -87,6 +87,10 @@ a:hover {
   overflow: hidden;
 }
 
+.article hr{
+  margin-bottom: 5px;
+}
+
 .article-meta {
   overflow: hidden;
 }
