@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EmStreetStyle</title>
-    <link>https://emiem.github.io/street-style/tags/gucci/index.xml</link>
+    <link>http://em-streetstyle.com/tags/gucci/index.xml</link>
     <description>Recent content on EmStreetStyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,10 +10,10 @@
     
     <item>
       <title>gucci bag</title>
-      <link>https://emiem.github.io/street-style/post/gucci-bag/</link>
+      <link>http://em-streetstyle.com/post/gucci-bag/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emiem.github.io/street-style/post/gucci-bag/</guid>
+      <guid>http://em-streetstyle.com/post/gucci-bag/</guid>
       <description></description>
     </item>
     

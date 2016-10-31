@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EmStreetStyle</title>
-    <link>https://emiem.github.io/street-style/tags/red/index.xml</link>
+    <link>http://em-streetstyle.com/tags/red/index.xml</link>
     <description>Recent content on EmStreetStyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,19 +10,19 @@
     
     <item>
       <title>red dress</title>
-      <link>https://emiem.github.io/street-style/post/red-dress/</link>
+      <link>http://em-streetstyle.com/post/red-dress/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emiem.github.io/street-style/post/red-dress/</guid>
+      <guid>http://em-streetstyle.com/post/red-dress/</guid>
       <description></description>
     </item>
     
     <item>
       <title>red shoes</title>
-      <link>https://emiem.github.io/street-style/post/red-shoes/</link>
+      <link>http://em-streetstyle.com/post/red-shoes/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emiem.github.io/street-style/post/red-shoes/</guid>
+      <guid>http://em-streetstyle.com/post/red-shoes/</guid>
       <description></description>
     </item>
     

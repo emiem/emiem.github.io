@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EmStreetStyle</title>
-    <link>https://emiem.github.io/street-style/tags/style/index.xml</link>
+    <link>http://em-streetstyle.com/tags/style/index.xml</link>
     <description>Recent content on EmStreetStyle</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,10 +10,10 @@
     
     <item>
       <title>street style</title>
-      <link>https://emiem.github.io/street-style/post/street-style/</link>
+      <link>http://em-streetstyle.com/post/street-style/</link>
       <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://emiem.github.io/street-style/post/street-style/</guid>
+      <guid>http://em-streetstyle.com/post/street-style/</guid>
       <description></description>
     </item>
     
