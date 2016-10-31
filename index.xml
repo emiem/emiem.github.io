@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EmStreetStyle</title>
+    <title>Street Style Inspiration</title>
     <link>http://em-streetstyle.com/index.xml</link>
-    <description>Recent content on EmStreetStyle</description>
+    <description>Recent content on Street Style Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
@@ -15,6 +15,15 @@
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>http://em-streetstyle.com/post/black-jeans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>french girl</title>
+      <link>http://em-streetstyle.com/post/french-girl/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://em-streetstyle.com/post/french-girl/</guid>
       <description></description>
     </item>
     
