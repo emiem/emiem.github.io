@@ -10,6 +10,15 @@
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>All Black</title>
+      <link>http://em-streetstyle.com/post/All-Black/</link>
+      <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://em-streetstyle.com/post/All-Black/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Fall</title>
       <link>http://em-streetstyle.com/post/Fall/</link>
       <pubDate>Wed, 02 Nov 2016 00:00:00 +0000</pubDate>
@@ -133,15 +142,6 @@
       
       <guid>http://em-streetstyle.com/post/jeans-jacket/</guid>
       <description>+++ draft = false title = &amp;ldquo;jeans jacket&amp;rdquo; date = &amp;ldquo;2016-11-01&amp;rdquo; img = &amp;ldquo;jeans-jacket.jpg&amp;rdquo; tags = [&amp;ldquo;jeans&amp;rdquo;,&amp;ldquo;jacket&amp;rdquo;,] +++</description>
-    </item>
-    
-    <item>
-      <title>light jeans</title>
-      <link>http://em-streetstyle.com/post/light-jeans/</link>
-      <pubDate>Mon, 31 Oct 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://em-streetstyle.com/post/light-jeans/</guid>
-      <description></description>
     </item>
     
   </channel>
