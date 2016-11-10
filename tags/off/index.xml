@@ -2,20 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Street Style Inspiration</title>
-    <link>http://em-streetstyle.com/tags/model/index.xml</link>
+    <link>http://em-streetstyle.com/tags/off/index.xml</link>
     <description>Recent content on Street Style Inspiration</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="/tags/model/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Model Style Anja Rubik</title>
-      <link>http://em-streetstyle.com/post/Model-Style-Anja-Rubik/</link>
-      <pubDate>Thu, 10 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://em-streetstyle.com/post/Model-Style-Anja-Rubik/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/tags/off/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Model off Duty</title>
