@@ -64,7 +64,7 @@ a:hover {
   width: 1000px;
   height: 17.7em;
   margin: 0 auto;
-  background-image: url('img/banner2.jpg');
+  background-image: url('../img/banner2.jpg');
   background-size: 100%;
 }
 
