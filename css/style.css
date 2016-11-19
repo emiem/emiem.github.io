@@ -48,7 +48,7 @@ a:hover {
  */
 .site-header { 
   background: #F6F7F8;
-  height: 60px;
+  height: 357px;
   margin-bottom: 40px;
 }
 
@@ -56,12 +56,16 @@ a:hover {
   color: #303030;
   text-decoration: none;
   font-size: 20px;
+  line-height: 630px;
 }
 
 .site-header-left {
   padding: 15px 0px 12px 20px;
   width: 1000px;
+  height: 277px;
   margin: 0 auto;
+  background-image: url('img/banner2.jpg');
+  background-size: 100%;
 }
 
 .site-header-title {
